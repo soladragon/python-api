@@ -1,0 +1,4 @@
+#requests==2.28.1
+Flask
+db-sqlite3
+flask_cors
